@@ -27,5 +27,5 @@ ABO / 《誓言》萧斯宇 / **非自愿性性行为** / OMC
 ### 处处吻
 小妈 / **非自愿性行为** / OMC
 
-### 披星戴月
+### [披星戴月](https://github.com/likeasupernova/melodramma/blob/Qin-Hao/%E6%8A%AB%E6%98%9F%E6%88%B4%E6%9C%88.md)
 拉郎 / 《无证之罪》严良&《浮城迷事》秦枫 / **无警告内容** / 秦枫x严良
