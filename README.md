@@ -6,7 +6,15 @@
 ### Señorita
 嫂子 / OMC
 
-### 
+### 亭亭如盖
+《誓言》萧斯宇 / **非自愿性性行为** / OMC
+
+### 爱情的枪
+《春风沉醉的晚上》江城 / **双性提及** / OMC
+
+### 麦记最后一夜
+《隐秘的角落》张东升 / **非自愿性性行为** / OMC / 徐静x张东升
+
 
 You can use the [editor on GitHub](https://github.com/likeasupernova/melodramma/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
