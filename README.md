@@ -1,5 +1,13 @@
 ## 相关产出整理
 
+```markdown
+### 文章标题
+
+主题 / 角色 / **可能引起不适的内容** / couples（标注“OMC”表示默认cp为OMCx主角）
+
+* 如没有标注角色，则说明**非角色指向**同人作品
+```
+
 ### 处处吻
 小妈 / **非自愿性行为** / OMC
 
@@ -13,7 +21,7 @@
 《春风沉醉的晚上》江城 / **双性提及** / OMC
 
 ### 麦记最后一夜
-《隐秘的角落》张东升 / **非自愿性性行为** / OMC / 徐静x张东升
+《隐秘的角落》张东升 / **非自愿性性行为** / OMC & 徐静x张东升
 
 
 You can use the [editor on GitHub](https://github.com/likeasupernova/melodramma/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
