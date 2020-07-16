@@ -9,7 +9,7 @@
 ### 亭亭如盖
 《誓言》萧斯宇 / **非自愿性性行为** / OMC
 
-### [爱情的枪](https://github.com/likeasupernova/melodramma/blob/Qin-Hao/%E7%88%B1%E6%83%85%E7%9A%84%E6%9E%AA)
+### [爱情的枪](https://github.com/likeasupernova/melodramma/blob/Qin-Hao/%E7%88%B1%E6%83%85%E7%9A%84%E6%9E%AA.md)
 《春风沉醉的晚上》江城 / **双性提及** / OMC
 
 ### 麦记最后一夜
